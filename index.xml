@@ -21,13 +21,12 @@
     </item>
     
     <item>
-      <title>Kubernetes Replicas using Blinkt</title>
+      <title>Price Optimization &amp; Machine Learning Modeling with R</title>
       <link>https://xnonr.github.io/post/2018-09-26-a/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://xnonr.github.io/post/2018-09-26-a/</guid>
-      <description>Blinkt on Kubedge used to demonstrate Kubernetes replicas and the configuration as code.
-Kubedge</description>
+      <description>R Machine Learning Telco Customer Churn</description>
     </item>
     
     <item>
