@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxence Brette&#39;s Blog</title>
+    <link>https://xnonr.github.io/</link>
+    <description>Recent content on Maxence Brette&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xnonr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning With R</title>
+      <link>https://xnonr.github.io/ai_ml/2018-07-19-a/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/ai_ml/2018-07-19-a/</guid>
+      <description>Goal  WIP  Key Aspects  WIP  Deploy  WIP  Conclusion  WIP  Reference Links  Kubernetes cross build  </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Replicas using Blinkt</title>
+      <link>https://xnonr.github.io/post/2018-09-26-a/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/post/2018-09-26-a/</guid>
+      <description>Blinkt on Kubedge used to demonstrate Kubernetes replicas and the configuration as code.
+Kubedge</description>
+    </item>
+    
+    <item>
+      <title>About the author</title>
+      <link>https://xnonr.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/about/</guid>
+      <description>Work in progress
+Thanks for reading!</description>
+    </item>
+    
+  </channel>
+</rss>
