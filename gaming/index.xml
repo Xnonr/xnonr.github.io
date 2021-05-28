@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>AI Prediction Modeling Within Pong Clone</title>
+      <title>AI Ball Path Prediction Modeling Within Pong Clone</title>
       <link>https://xnonr.github.io/gaming/pongclone1/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://xnonr.github.io/gaming/pongclone1/</guid>
-      <description>Goal  To develop a smarter, more efficient and &amp;lsquo;human like&amp;rsquo; predictive player AI opponent.  Key Aspects  The current AI opponent in both the classic and advanced game modes &amp;lsquo;cheats&amp;rsquo; in that it knows where the ball is located at all times, much like a human does with their eyesight, but can move perfectly as needed so as to never miss, unlike human mistakes and limited reaction times. The AI has the paddle or paddles, depending on the mode, &amp;lsquo;chase&amp;rsquo; after the ball in a simple fashion, hitting it once then returning to a sort of standby mode, yet still moving up or down depending on said ball&amp;rsquo;s current location within the game window, ensuring it can intercept with best possible haste.</description>
+      <description>Overall Goal  To develop a more intelligent, efficient and &amp;lsquo;human like&amp;rsquo; Predictive Opponent AI.  Background Information  The current Simple Opponent AI in both the Classic and Advanced game modes &amp;lsquo;cheats&amp;rsquo; in that it knows where the ball is located at all times, much like a human player does with their eyesight, yet in contrast can move perfectly as needed every time so as to never miss, unlike humans&amp;rsquo; inevitable mistakes, limited reaction and manual keyboard input times.</description>
     </item>
     
   </channel>
