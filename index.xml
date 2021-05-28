@@ -6,10 +6,21 @@
     <description>Recent content on Maxence Brette&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xnonr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About The Author</title>
+      <link>https://xnonr.github.io/about/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/about/</guid>
+      <description>Interested in the realms of Machine Learning (ML), Artificial Intelligence (AI), Neural Networks, Big Data, Data Analytics &amp;amp; Visualization. Passioned by their plausible applications to virtually any imaginable realm, from video games, finance, supply chain management, etc.
+Recent college graduate from the Naveen Jindal School of Management at the University of Texas at Dallas.
+Majored in a Bachelor of Science in Information Technology Systems &amp;amp; Services in the May of 2020.</description>
+    </item>
     
     <item>
       <title>AI Prediction Modeling Within Pong Clone</title>
@@ -22,11 +33,11 @@
     
     <item>
       <title>Machine Learning With R</title>
-      <link>https://xnonr.github.io/ai_ml/2018-07-19-a/</link>
+      <link>https://xnonr.github.io/ai_ml/rmltcc1/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://xnonr.github.io/ai_ml/2018-07-19-a/</guid>
-      <description>Goal  WIP  Key Aspects  WIP  Deploy  WIP  Conclusion  WIP  Reference Links  Kubernetes cross build  </description>
+      <guid>https://xnonr.github.io/ai_ml/rmltcc1/</guid>
+      <description>Goal  WIP  Key Aspects  WIP  Deploy  WIP  Conclusion  WIP  Reference Links  N/A  </description>
     </item>
     
     <item>
@@ -36,16 +47,6 @@
       
       <guid>https://xnonr.github.io/post/2018-09-26-a/</guid>
       <description>R Machine Learning Telco Customer Churn</description>
-    </item>
-    
-    <item>
-      <title>About the author</title>
-      <link>https://xnonr.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xnonr.github.io/about/</guid>
-      <description>Work in progress
-Thanks for reading!</description>
     </item>
     
   </channel>

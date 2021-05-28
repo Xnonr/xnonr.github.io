@@ -20,5 +20,14 @@
       <description>Goal  To develop a smarter, more efficient and &amp;lsquo;human like&amp;rsquo; predictive player AI opponent.  Key Aspects  The current AI opponent in both the classic and advanced game modes &amp;lsquo;cheats&amp;rsquo; in that it knows where the ball is located at all times, much like a human does with their eyesight, but can move perfectly as needed so as to never miss, unlike human mistakes and limited reaction times. The AI has the paddle or paddles, depending on the mode, &amp;lsquo;chase&amp;rsquo; after the ball in a simple fashion, hitting it once then returning to a sort of standby mode, yet still moving up or down depending on said ball&amp;rsquo;s current location within the game window, ensuring it can intercept with best possible haste.</description>
     </item>
     
+    <item>
+      <title>Machine Learning With R</title>
+      <link>https://xnonr.github.io/ai_ml/rmltcc1/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/ai_ml/rmltcc1/</guid>
+      <description>Goal  WIP  Key Aspects  WIP  Deploy  WIP  Conclusion  WIP  Reference Links  N/A  </description>
+    </item>
+    
   </channel>
 </rss>

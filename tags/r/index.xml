@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ml on Maxence Brette&#39;s Blog</title>
-    <link>https://xnonr.github.io/tags/ml/</link>
-    <description>Recent content in ml on Maxence Brette&#39;s Blog</description>
+    <title>R on Maxence Brette&#39;s Blog</title>
+    <link>https://xnonr.github.io/tags/r/</link>
+    <description>Recent content in R on Maxence Brette&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xnonr.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xnonr.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://xnonr.github.io/ai_ml/rmltcc1/</guid>
       <description>Goal  WIP  Key Aspects  WIP  Deploy  WIP  Conclusion  WIP  Reference Links  N/A  </description>
-    </item>
-    
-    <item>
-      <title>Price Optimization &amp; Machine Learning Modeling with R</title>
-      <link>https://xnonr.github.io/post/2018-09-26-a/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xnonr.github.io/post/2018-09-26-a/</guid>
-      <description>R Machine Learning Telco Customer Churn</description>
     </item>
     
   </channel>

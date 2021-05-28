@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>ai</title>
+      <title>aI</title>
       <link>https://xnonr.github.io/categories/ai/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>machinelearning</title>
+      <title>machineLearning</title>
       <link>https://xnonr.github.io/categories/machinelearning/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>ml</title>
+      <title>mL</title>
       <link>https://xnonr.github.io/categories/ml/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
@@ -93,20 +93,11 @@
     </item>
     
     <item>
-      <title>wiki</title>
-      <link>https://xnonr.github.io/categories/wiki/</link>
+      <title>R</title>
+      <link>https://xnonr.github.io/categories/r/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://xnonr.github.io/categories/wiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wip</title>
-      <link>https://xnonr.github.io/categories/wip/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xnonr.github.io/categories/wip/</guid>
+      <guid>https://xnonr.github.io/categories/r/</guid>
       <description></description>
     </item>
     
