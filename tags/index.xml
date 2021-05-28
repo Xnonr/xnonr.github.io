@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Maxence Brette&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xnonr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,63 @@
     <item>
       <title>ai</title>
       <link>https://xnonr.github.io/tags/ai/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://xnonr.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificialIntelligence</title>
+      <link>https://xnonr.github.io/tags/artificialintelligence/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/artificialintelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://xnonr.github.io/tags/gaming/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://xnonr.github.io/tags/modeling/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pong</title>
+      <link>https://xnonr.github.io/tags/pong/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/pong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prediction</title>
+      <link>https://xnonr.github.io/tags/prediction/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://xnonr.github.io/tags/python/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/tags/python/</guid>
       <description></description>
     </item>
     

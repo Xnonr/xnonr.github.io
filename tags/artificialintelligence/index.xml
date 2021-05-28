@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificialIntelligence on Maxence Brette&#39;s Blog</title>
+    <link>https://xnonr.github.io/tags/artificialintelligence/</link>
+    <description>Recent content in artificialIntelligence on Maxence Brette&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xnonr.github.io/tags/artificialintelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI Prediction Modeling Within Pong Clone</title>
+      <link>https://xnonr.github.io/gaming/pongclone1/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xnonr.github.io/gaming/pongclone1/</guid>
+      <description>Goal  To develop a smarter, more efficient and &amp;lsquo;human like&amp;rsquo; predictive player AI opponent.  Key Aspects  The current AI opponent in both the classic and advanced game modes &amp;lsquo;cheats&amp;rsquo; in that it knows where the ball is located at all times, much like a human does with their eyesight, but can move perfectly as needed so as to never miss, unlike human mistakes and limited reaction times. The AI has the paddle or paddles, depending on the mode, &amp;lsquo;chase&amp;rsquo; after the ball in a simple fashion, hitting it once then returning to a sort of standby mode, yet still moving up or down depending on said ball&amp;rsquo;s current location within the game window, ensuring it can intercept with best possible haste.</description>
+    </item>
+    
+  </channel>
+</rss>
